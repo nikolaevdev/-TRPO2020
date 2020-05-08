@@ -1,0 +1,10 @@
+E:\Учеба\Программирование\Коды\TRPO\-TRPO2020\3\Lib 3.4 1 exp\Lib 3.4 1 exp\bin\Debug\Lib 3.4 1 exp.exe.config
+E:\Учеба\Программирование\Коды\TRPO\-TRPO2020\3\Lib 3.4 1 exp\Lib 3.4 1 exp\bin\Debug\Lib 3.4 1 exp.exe
+E:\Учеба\Программирование\Коды\TRPO\-TRPO2020\3\Lib 3.4 1 exp\Lib 3.4 1 exp\bin\Debug\Lib 3.4 1 exp.pdb
+E:\Учеба\Программирование\Коды\TRPO\-TRPO2020\3\Lib 3.4 1 exp\Lib 3.4 1 exp\obj\Debug\Lib 3.4 1 exp.csprojAssemblyReference.cache
+E:\Учеба\Программирование\Коды\TRPO\-TRPO2020\3\Lib 3.4 1 exp\Lib 3.4 1 exp\obj\Debug\Lib_3._4_1_exp.Form1.resources
+E:\Учеба\Программирование\Коды\TRPO\-TRPO2020\3\Lib 3.4 1 exp\Lib 3.4 1 exp\obj\Debug\Lib_3._4_1_exp.Properties.Resources.resources
+E:\Учеба\Программирование\Коды\TRPO\-TRPO2020\3\Lib 3.4 1 exp\Lib 3.4 1 exp\obj\Debug\Lib 3.4 1 exp.csproj.GenerateResource.cache
+E:\Учеба\Программирование\Коды\TRPO\-TRPO2020\3\Lib 3.4 1 exp\Lib 3.4 1 exp\obj\Debug\Lib 3.4 1 exp.csproj.CoreCompileInputs.cache
+E:\Учеба\Программирование\Коды\TRPO\-TRPO2020\3\Lib 3.4 1 exp\Lib 3.4 1 exp\obj\Debug\Lib 3.4 1 exp.exe
+E:\Учеба\Программирование\Коды\TRPO\-TRPO2020\3\Lib 3.4 1 exp\Lib 3.4 1 exp\obj\Debug\Lib 3.4 1 exp.pdb
